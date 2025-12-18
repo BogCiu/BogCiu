@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BogCiu
 - 👀 I’m interested in Coding, Arduino Projects, and Gaming
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
+- 🌱 I'm experienced mostly in Python and C#, but I can touch on most programming languages
 - 💞️ I’m looking to collaborate on any beginner friendly project (but I'm employed full time, so I can't commit A LOT of time to it)
 - 📫 How to reach me : Message me here or email me at bogdan.bog.voicu@gmail.com
 
